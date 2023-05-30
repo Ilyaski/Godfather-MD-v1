@@ -108,23 +108,23 @@ global.APIKeys = { // APIKey Here
 global.wm = '「 𝗜𝗟𝗬𝗔𝗦 𝗞𝗔𝗠𝗔𝗟𝗜 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ilyas Kamali- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '𝗜𝗟𝗬𝗔𝗦 𝗞𝗔𝗠𝗔𝗟𝗜'
-global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +92 347 0027813`
-global.fig = `Follow me on instagram:\n\t\tinstagram.com/itx_ahmad.ali`
+global.footerTXT = `𝗜𝗟𝗬𝗔𝗦 𝗞𝗔𝗠𝗔𝗟𝗜 • 𝗠𝗨𝗟𝗧𝗜 𝗗𝗘𝗩𝗜𝗖𝗘 \nowner: +212693219828`
+global.fig = `Follow me on instagram:\n\t\tinstagram.com/the_km4`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ ɪᴋʀᴀᴛᴏs ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 𝗚𝗢𝗗𝗙𝗔𝗧𝗛𝗘𝗥 𝗕𝗢𝗧 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣'
 global.author = global.wm
-global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
+global.logo = 'https://telegra.ph/file/e0b486bb4b554cac8d714.jpg'
 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/cc8jfkX/01.jpg' //Main Thumbnail
-global.thumb2 = 'https://i.ibb.co/cc8jfkX/01.jpg'
-global.thumbbc = 'https://i.ibb.co/cc8jfkX/01.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumblvlup = 'https://i.ibb.co/cc8jfkX/01.jpg'
-global.hwaifu = ['https://i.ibb.co/cc8jfkX/01.jpg']
+global.thumb = 'https://telegra.ph/file/e0b486bb4b554cac8d714.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/e0b486bb4b554cac8d714.jpg'
+global.thumbbc = 'https://telegra.ph/file/e0b486bb4b554cac8d714.jpg' //For broadcast
+global.giflogo = 'https://telegra.ph/file/6aff079fb273e2d122a3c.jpg'
+global.thumblvlup = 'https://telegra.ph/file/e0b486bb4b554cac8d714.jpg'
+global.hwaifu = ['https://telegra.ph/file/e0b486bb4b554cac8d714.jpg']
 
 /*============== FlamingText ===========*/
 global.flaaa = [
@@ -140,7 +140,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+92 347 0027813'
+global.phn = '+212 693219828'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -159,8 +159,8 @@ global.fpagedoc = '999'
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
 global.dmenut = 'ଓ═┅═━–〈' //top
-global.dmenub = '┊🇵🇰' //body
-global.dmenub2 = '┊' //body for info cmd on Default menu
+global.dmenub = '┊🇲🇦' //body
+global.dmenub2 = '┊🤴🏻' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
 // COMMAND MENU
@@ -180,10 +180,10 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'x_ikratos_x'
-global.stickauth = `「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴋʀᴀᴛᴏs'
+global.stickpack = 'x_ilyas kamali_x'
+global.stickauth = `「 𝗚𝗢𝗗𝗙𝗔𝗧𝗛𝗘𝗥 」`
+global.packname = '𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗕𝗬'
+global.packname2 = '𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗕𝗬 𝗜𝗟𝗬𝗔𝗦'
 
 global.multiplier = 38 // The higher, The harder levelup
 
